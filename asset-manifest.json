@@ -1,13 +1,14 @@
 {
   "files": {
-    "main.css": "/redux-my-final-project/static/css/main.7acaea2f.css",
-    "main.js": "/redux-my-final-project/static/js/main.07d3183d.js",
+    "main.js": "/redux-my-final-project/static/js/main.27fdd26e.js",
+    "static/media/Audi-A4.jpeg": "/redux-my-final-project/static/media/Audi-A4.a5df7307f3fa79d543ef.jpeg",
+    "static/media/Hyundai-Sonata.jpeg": "/redux-my-final-project/static/media/Hyundai-Sonata.602b37f5de2d6652393d.jpeg",
+    "static/media/Honda-CR-V.jpeg": "/redux-my-final-project/static/media/Honda-CR-V.1f4df27e31c6998a43dd.jpeg",
+    "static/media/Mercedes-GLC.jpeg": "/redux-my-final-project/static/media/Mercedes-GLC.0d2c53038dc646cda162.jpeg",
     "index.html": "/redux-my-final-project/index.html",
-    "main.7acaea2f.css.map": "/redux-my-final-project/static/css/main.7acaea2f.css.map",
-    "main.07d3183d.js.map": "/redux-my-final-project/static/js/main.07d3183d.js.map"
+    "main.27fdd26e.js.map": "/redux-my-final-project/static/js/main.27fdd26e.js.map"
   },
   "entrypoints": [
-    "static/css/main.7acaea2f.css",
-    "static/js/main.07d3183d.js"
+    "static/js/main.27fdd26e.js"
   ]
 }
